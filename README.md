@@ -1,4 +1,4 @@
-## Coronavirus (covid-19) tracker
+## REACT JS Coronavirus (covid-19) tracker
 This is a react application that dynamicly displays coronavirus cases
 You can select country to view data by country or view gloabal informations
 
